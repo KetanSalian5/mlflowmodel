@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/mlflow/mlruns/0/49528cb84f3643399543d0025d8ba966/artifacts
+end_time: 1690198330817
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 49528cb84f3643399543d0025d8ba966
+run_name: redolent-hen-255
+run_uuid: 49528cb84f3643399543d0025d8ba966
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690198323515
+status: 3
+tags: []
+user_id: Ketan.Salian
